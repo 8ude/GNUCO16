@@ -6,19 +6,32 @@
           position:absolute;
           top:0px;
           left:0px;
-          background:#000;
-          opacity: 0.25;
+          background:#fff;
+          opacity: 0.5;
+
+        }
+
+#splashtext{
+
+        color:#B16FAD;
+        font-family:courier;
+        font-size:1em;
+        position:absolute;
+        margin-top:10px;
+        top:30%;
+        width:100%;
+        text-align:center;
 
         }
 
 #start{
 
-        color:#fff;
+        color:#36C4D8;
         font-family:courier;
         font-size:2em;
         position:absolute;
         margin-top:10px;
-        top:40%;
+        top:60%;
         width:100%;
         text-align:center;
 
